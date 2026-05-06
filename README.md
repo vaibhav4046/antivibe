@@ -17,7 +17,7 @@
 
 ---
 
-## ✨ What is AntiVibe?
+## What is AntiVibe?
 
 AntiVibe is a **learning-focused code explanation framework** that transforms AI-generated code into educational content. Unlike generic code summaries, AntiVibe helps you understand:
 
@@ -26,13 +26,13 @@ AntiVibe is a **learning-focused code explanation framework** that transforms AI
 - **When** to use these patterns (context)
 - **What alternatives** exist (broader knowledge)
 
-> ⚡ **The Problem**: AI writes code, developers copy-paste it, nobody learns anything.
-> 
-> 🛡️ **The Solution**: AntiVibe explains the reasoning so you actually understand.
+> **The Problem**: AI writes code, developers copy-paste it, nobody learns anything.
+>
+> **The Solution**: AntiVibe explains the reasoning so you actually understand.
 
 ---
 
-## 🎯 Features
+## Features
 
 | Feature | Description |
 |---------|-------------|
@@ -45,7 +45,7 @@ AntiVibe is a **learning-focused code explanation framework** that transforms AI
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Installation
 
@@ -69,7 +69,7 @@ cp -r antivibe ~/.claude/skills/antivibe
 
 ---
 
-## 📁 Output Example
+## Output Example
 
 Generate a deep dive and get a file like:
 
@@ -101,7 +101,7 @@ Saved to: `deep-dive/auth-system-2026-04-10.md`
 
 ---
 
-## 🔧 Configuration
+## Configuration
 
 ### Auto-Trigger Hooks
 
@@ -126,7 +126,7 @@ OUTPUT_DIR="your-folder"  # Default: "deep-dive"
 
 ---
 
-## 📂 File Structure
+## File Structure
 
 ```
 antivibe/
@@ -153,7 +153,7 @@ antivibe/
 
 ---
 
-## 📚 Principles
+## Principles
 
 1. **Why over what** - Always explain design decisions
 2. **Context matters** - Explain when/why to use patterns
@@ -164,7 +164,7 @@ antivibe/
 
 ---
 
-## 🛠️ Supported Languages & Frameworks
+## Supported Languages & Frameworks
 
 - **JavaScript/TypeScript**: React, Node.js, Express
 - **Python**: Django, FastAPI, Flask
@@ -175,7 +175,7 @@ antivibe/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions welcome! To extend AntiVibe:
 
@@ -185,19 +185,19 @@ Contributions welcome! To extend AntiVibe:
 
 ---
 
-## 📖 Documentation
+## Documentation
 
 - [Setup Guide](docs/setup.md) - Detailed installation
 - [Skill Format](https://docs.anthropic.com/en/docs/claude-code/skills) - Claude Code skills
 
 ---
 
-## ⚠️ License
+## License
 
 MIT License - Use it, learn from it, share it.
 
 ---
 
 <p align="center">
-  <sub>Built with 🔥 for developers who actually want to understand code.</sub>
+  <sub>Built for developers who actually want to understand code.</sub>
 </p>
