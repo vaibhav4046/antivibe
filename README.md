@@ -1,6 +1,10 @@
 # AntiVibe
 
 <p align="center">
+  <a href="#"><img src="docs/screenshots/hero.png" alt="Learn what AI writes, not just accept it" width="100%" /></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Anti--Vibecoding-Learning-orange?style=for-the-badge" alt="Anti-Vibecoding">
   <img src="https://img.shields.io/badge/Claude_Code-Skill-blue?style=for-the-badge" alt="Claude Code">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
